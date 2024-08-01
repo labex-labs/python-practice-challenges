@@ -758,7 +758,7 @@ This course contains lots of challenges for Python, each challenge is a small Py
 |     745 | 🎯 Number Generator Expression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16'>Start Challenge</a>     |
 |     746 | 🎯 Send SOS Signal                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211439'>Start Challenge</a> |
 |     747 | 🎯 Python Rate Limiter Implementation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256145'>Start Challenge</a> |
-|     748 | 🎯 Mastering Python Exception Handling                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/63'>Start Challenge</a>     |
+|     748 | 🎯 Python Exception Handling Challenge                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/63'>Start Challenge</a>     |
 |     749 | 🎯 Practice Assignment Expressions                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/3731'>Start Challenge</a>   |
 |     750 | 🎯 Count Grouped Elements (Challenge)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13076'>Start Challenge</a>  |
 |     751 | 🎯 Prettyprint Following Json Data                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56324'>Start Challenge</a>  |
@@ -849,7 +849,7 @@ This course contains lots of challenges for Python, each challenge is a small Py
 |     836 | 🎯 Deleting Middle Node in Python Linked List            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268841'>Start Challenge</a> |
 |     837 | 🎯 Linked List Data Structure                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268844'>Start Challenge</a> |
 |     838 | 🎯 Coin Change Min                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268854'>Start Challenge</a> |
-|     839 | 🎯 Set Of Stacks                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268886'>Start Challenge</a> |
+|     839 | 🎯 Set of Stacks                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268886'>Start Challenge</a> |
 |     840 | 🎯 Find Next Largest Smallest Binary Numbers             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268815'>Start Challenge</a> |
 |     841 | 🎯 Unique Character String Validation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268810'>Start Challenge</a> |
 |     842 | 🎯 Efficient List Operations in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268851'>Start Challenge</a> |
