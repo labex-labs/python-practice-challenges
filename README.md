@@ -770,7 +770,7 @@ This course contains lots of challenges for Python, each challenge is a small Py
 |     757 | 🎯 Group List Elements (Challenge)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13117'>Start Challenge</a>  |
 |     758 | 🎯 Visualize Monthly Soap Sales Data                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56148'>Start Challenge</a>  |
 |     759 | 🎯 Display It Using Subplot                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56169'>Start Challenge</a>  |
-|     760 | 🎯 Mastering the Decimal Module                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177193'>Start Challenge</a> |
+|     760 | 🎯 The Decimal Module                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177193'>Start Challenge</a> |
 |     761 | 🎯 Class and Method                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/69'>Start Challenge</a>     |
 |     762 | 🎯 List Union Based on Function (Challenge)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13205'>Start Challenge</a>  |
 |     763 | 🎯 Get Local Time                                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/12265'>Start Challenge</a>  |
@@ -915,20 +915,20 @@ This course contains lots of challenges for Python, each challenge is a small Py
 |     902 | 🎯 Pandas Boolean Reductions Data Analysis               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/53381'>Start Challenge</a>  |
 |     903 | 🎯 Exploring the Where Function                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/53379'>Start Challenge</a>  |
 |     904 | 🎯 The Powerful Query Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29827'>Start Challenge</a>  |
-|     905 | 🎯 Mastering String Operations                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
+|     905 | 🎯 String Operations                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
 |     906 | 🎯 Understanding Validation Curves                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/106940'>Start Challenge</a> |
 |     907 | 🎯 NumPy List Value Statistics                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/664'>Start Challenge</a>    |
 |     908 | 🎯 Pandas String Manipulation for E-commerce Data        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29301'>Start Challenge</a>  |
 |     909 | 🎯 DataFrame Math Operations                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/172040'>Start Challenge</a> |
 |     910 | 🎯 Analyzing Sales and Discounts                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23740'>Start Challenge</a>  |
-|     911 | 🎯 Mastering Decision Trees                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
+|     911 | 🎯 Decision Trees                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
 |     912 | 🎯 Working with Series                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67550'>Start Challenge</a>  |
 |     913 | 🎯 Clustering and Insights                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/198286'>Start Challenge</a> |
 |     914 | 🎯 Array Indexing and Slicing                            | ★★★          | <a target='_blank' href='https://labex.io/labs/38504'>Start Challenge</a>  |
 |     915 | 🎯 Handling NaN and Duplicates                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/189438'>Start Challenge</a> |
 |     916 | 🎯 Sales Data Comparison                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92717'>Start Challenge</a>  |
 |     917 | 🎯 NumPy Array Operation                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8708'>Start Challenge</a>   |
-|     918 | 🎯 Mastering naive bayes                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
+|     918 | 🎯 Naive Bayes Classification                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
 |     919 | 🎯 Filtering and Indexing with CSV                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67543'>Start Challenge</a>  |
 |     920 | 🎯 Sorting and Searching                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/154566'>Start Challenge</a> |
 |     921 | 🎯 DataFrame with Sales Data                             | ★★☆          | <a target='_blank' href='https://labex.io/labs/22107'>Start Challenge</a>  |
@@ -937,7 +937,7 @@ This course contains lots of challenges for Python, each challenge is a small Py
 |     924 | 🎯 Random Number Generation with NumPy                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/34635'>Start Challenge</a>  |
 |     925 | 🎯 Make NumPy Array Your Shape                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8687'>Start Challenge</a>   |
 |     926 | 🎯 Predicting Flower Types with Nearest Neighbors        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256147'>Start Challenge</a> |
-|     927 | 🎯 Mastering Linear Regression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
+|     927 | 🎯 Linear Regression                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
 |     928 | 🎯 NumPy Dot Product                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8737'>Start Challenge</a>   |
 |     929 | 🎯 Understanding Metrics and Scoring                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185172'>Start Challenge</a> |
 
