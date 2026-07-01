@@ -1,121 +1,73 @@
 # Python 实践挑战
 
-**支持语言:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+**支持语言:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
 <p align="center">
-  <a href="https://labex.io/zh/courses/python-practice-challenges">
-    <img src="https://course-cover.labex.io/python-practice-challenges.png?lang=zh" alt="Python 实践挑战">
+  <a href="https://labex.io/zh/learn/python">
+    <img width="128" src="https://file.labex.io/upload/u/1991/7aei0JokTWul.png" alt="Python">
   </a>
 </p>
 
-本课程包含大量 Python 挑战，每个挑战都是一个小的 Python 项目，配有详细的说明和解决方案。通过解决这些挑战，你可以练习 Python 技能，提高问题解决能力，并学习如何编写简洁高效的代码。
+通过这个专为初学者设计的结构化学习路径，学习 Python 这门多功能、高级的编程语言。这些 Python 课程提供了一个系统的路线图，帮助您掌握核心概念，包括 Python 语法、数据结构和面向对象编程。通过交互式 Python 演练场中的动手实践（非视频）练习，培养实用技能，使您能够为各种应用程序编写简洁高效的代码。
 
-[在 LabEx 开始课程](https://labex.io/zh/courses/python-practice-challenges)
+[在 LabEx 开始挑战](https://labex.io/zh/learn/python)
 
-## 练习
+浏览 LabEx 上最多 50 个Python专项挑战。每个挑战都会打开交互式环境，帮助你通过针对性练习巩固技能。
 
-|   序号 | 名称                             | 难度   | 练习                                                                                                                                                           |
-|------|--------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  001 | 打印 Hello Python                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-comprehensive-python-hello-61?course=python-practice-challenges'>开始挑战</a>                           |
-|  002 | 将小时转换为秒                        | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-convert-hours-to-seconds-290725?course=python-practice-challenges'>开始挑战</a>                         |
-|  003 | 检查年龄限制                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-check-age-limit-7802?course=python-practice-challenges'>开始挑战</a>                                    |
-|  004 | 寻找克隆人士兵                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-find-cloned-soldiers-165959?course=python-practice-challenges'>开始挑战</a>                             |
-|  005 | 统计学习数据                         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-statistical-learning-data-205337?course=python-practice-challenges'>开始挑战</a>                        |
-|  006 | 合并实验记录                         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-merge-experiment-records-209752?course=python-practice-challenges'>开始挑战</a>                         |
-|  007 | 查找相加等于目标值的整数对                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-find-pair-of-integers-summing-to-target-416?course=python-practice-challenges'>开始挑战</a>             |
-|  008 | 工作文件分类与整理                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-sorting-and-organizing-work-files-204437?course=python-practice-challenges'>开始挑战</a>                |
-|  009 | 使用 Requests 开发网络爬虫             | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-developing-web-crawler-with-requests-271594?course=python-practice-challenges'>开始挑战</a>             |
-|  010 | 提取营养信息                         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-extracting-nutritional-information-209838?course=python-practice-challenges'>开始挑战</a>               |
-|  011 | 存储学习记录                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-storing-learning-records-213066?course=python-practice-challenges'>开始挑战</a>                         |
-|  012 | Conda 环境管理                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-conda-environment-management-8002?course=python-practice-challenges'>开始挑战</a>                       |
-|  013 | 基础 Python 数学运算符                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-basic-python-math-operators-8066?course=python-practice-challenges'>开始挑战</a>                        |
-|  014 | 身体质量指数（BMI）计算器                 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-body-mass-index-calculator-8949?course=python-practice-challenges'>开始挑战</a>                         |
-|  015 | 使用 Python 进行徒步小径监测             | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-hiking-trail-monitoring-with-python-8700?course=python-practice-challenges'>开始挑战</a>                |
-|  016 | Python 闰年检查器挑战                 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-leap-year-checker-python-challenge-8185?course=python-practice-challenges'>开始挑战</a>                 |
-|  017 | 长单词计数器                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-long-word-counter-8073?course=python-practice-challenges'>开始挑战</a>                                  |
-|  018 | Python 回文检查器                   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-palindrome-checker-in-python-145208?course=python-practice-challenges'>开始挑战</a>                     |
-|  019 | 小于 100 的质数之和                   | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-prime-sum-below-100-8794?course=python-practice-challenges'>开始挑战</a>                                |
-|  020 | 打印乘法表                          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-printing-multiplication-table-8470?course=python-practice-challenges'>开始挑战</a>                      |
-|  021 | 处理时间计算器                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-processing-time-calculator-8704?course=python-practice-challenges'>开始挑战</a>                         |
-|  022 | Python 温度转换工具                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-python-temperature-conversion-tool-9191?course=python-practice-challenges'>开始挑战</a>                 |
-|  023 | 学校评分系统                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-school-grading-system-8462?course=python-practice-challenges'>开始挑战</a>                              |
-|  024 | 所有偶数之和                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-sum-of-all-even-numbers-7831?course=python-practice-challenges'>开始挑战</a>                            |
-|  025 | 从整数列表中查找目标表达式                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-find-target-expressions-from-integer-list-7812?course=python-practice-challenges'>开始挑战</a>          |
-|  026 | 食谱推荐程序                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-recipe-recommendation-program-8190?course=python-practice-challenges'>开始挑战</a>                      |
-|  027 | 命令行计算器                         | 高级   | <a target='_blank' href='https://labex.io/zh/labs/python-command-line-calculator-7803?course=python-practice-challenges'>开始挑战</a>                            |
-|  028 | 使用 Python 进行文件管理               | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-document-management-with-python-8705?course=python-practice-challenges'>开始挑战</a>                    |
-|  029 | 经过时间计算器                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-elapsed-time-calculator-9189?course=python-practice-challenges'>开始挑战</a>                            |
-|  030 | 使用 Python argparse 生成定制化问候语    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-generate-customized-greeting-with-python-argparse-7806?course=python-practice-challenges'>开始挑战</a>  |
-|  031 | 使用 F 字符串生成个性化消息                | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-personalized-message-with-f-strings-8468?course=python-practice-challenges'>开始挑战</a>                |
-|  032 | 小型在线书店                         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-small-online-bookstore-1400?course=python-practice-challenges'>开始挑战</a>                             |
-|  033 | 大使馆访客跟踪管理                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-visitor-tracking-embassy-management-8696?course=python-practice-challenges'>开始挑战</a>                |
-|  034 | 简易购物车                          | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-simple-shopping-cart-7827?course=python-practice-challenges'>开始挑战</a>                               |
-|  035 | 渗透测试中的加密与解密                    | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-encryption-and-decryption-in-penetration-testing-300342?course=python-practice-challenges'>开始挑战</a> |
-|  036 | 基于水果的 Python 技能练习              | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-fruit-based-python-skill-practice-7830?course=python-practice-challenges'>开始挑战</a>                  |
-|  037 | 使用 Python 跟踪手工珠宝销售情况           | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-handmade-jewelry-sales-tracking-with-python-7977?course=python-practice-challenges'>开始挑战</a>        |
-|  038 | 电影院门票                          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-movie-theater-tickets-8472?course=python-practice-challenges'>开始挑战</a>                              |
-|  039 | 自动化网页打开                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-automate-webpage-opening-7921?course=python-practice-challenges'>开始挑战</a>                           |
-|  040 | 计算器单元测试                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-calculator-unit-testing-866?course=python-practice-challenges'>开始挑战</a>                             |
-|  041 | 统计字符串中重复字符的数量                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-count-repeated-characters-in-string-8079?course=python-practice-challenges'>开始挑战</a>                |
-|  042 | 局部作用域和全局作用域                    | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-local-and-global-scope-8076?course=python-practice-challenges'>开始挑战</a>                             |
-|  043 | 操作数字的魔法方法                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-magic-methods-to-operate-numbers-8003?course=python-practice-challenges'>开始挑战</a>                   |
-|  044 | 操作字符串的魔法方法                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-magic-methods-to-operate-strings-8004?course=python-practice-challenges'>开始挑战</a>                   |
-|  045 | 打印三角形                          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-printing-a-triangle-8063?course=python-practice-challenges'>开始挑战</a>                                |
-|  046 | Python 类继承                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-python-class-inheritance-7799?course=python-practice-challenges'>开始挑战</a>                           |
-|  047 | 释放装饰器的强大能力                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-unleashing-the-power-of-decorators-8692?course=python-practice-challenges'>开始挑战</a>                 |
-|  048 | 实现支持 TTL 的属性装饰器                | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-implementing-a-ttl-enabled-property-decorator-211624?course=python-practice-challenges'>开始挑战</a>    |
-|  049 | 数学表达式求值器                       | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-math-expression-evaluator-8739?course=python-practice-challenges'>开始挑战</a>                          |
-|  050 | 学校考勤追踪器                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-school-attendance-tracker-8464?course=python-practice-challenges'>开始挑战</a>                          |
-|  051 | 时间差计算器                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-time-difference-calculator-67167?course=python-practice-challenges'>开始挑战</a>                        |
-|  052 | 时间飞逝，时光试炼                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-time-flies-when-time-trials-132?course=python-practice-challenges'>开始挑战</a>                         |
-|  053 | 分析访问日志统计信息                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-analyze-access-log-statistics-8058?course=python-practice-challenges'>开始挑战</a>                      |
-|  054 | Tqdm 基础用法                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-basic-tqdm-usage-15821?course=python-practice-challenges'>开始挑战</a>                                  |
-|  055 | 构建虚假人物                         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-build-fake-person-7800?course=python-practice-challenges'>开始挑战</a>                                  |
-|  056 | 构建 Python 计算器                  | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-building-a-python-calculator-9086?course=python-practice-challenges'>开始挑战</a>                       |
-|  057 | 公交车乘客容量计算                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-bus-passenger-capacity-calculation-8466?course=python-practice-challenges'>开始挑战</a>                 |
-|  058 | 完成一个 JSON 解析器                  | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-complete-a-json-parser-8329?course=python-practice-challenges'>开始挑战</a>                             |
-|  059 | 统计数据类型                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-count-data-types-4912?course=python-practice-challenges'>开始挑战</a>                                   |
-|  060 | 统计元音字母                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-count-the-vowels-9687?course=python-practice-challenges'>开始挑战</a>                                   |
-|  061 | 创建 Python 迭代器                  | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-create-python-iterators-17?course=python-practice-challenges'>开始挑战</a>                              |
-|  062 | 数据类型操作                         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-data-types-manipulation-767?course=python-practice-challenges'>开始挑战</a>                             |
-|  063 | 开发饮水量追踪应用程序                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-develop-water-intake-tracking-app-8951?course=python-practice-challenges'>开始挑战</a>                  |
-|  064 | 字典键值交换器                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-dictionary-key-value-swapper-7808?course=python-practice-challenges'>开始挑战</a>                       |
-|  065 | 找出两个列表的交集                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-finding-the-intersection-of-two-lists-8188?course=python-practice-challenges'>开始挑战</a>              |
-|  066 | 消防站警报系统                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-fire-station-alert-system-8702?course=python-practice-challenges'>开始挑战</a>                          |
-|  067 | 购物清单生成器                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-grocery-list-generator-9193?course=python-practice-challenges'>开始挑战</a>                             |
-|  068 | 酒店房间可用性检查器                     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-hotel-room-availability-checker-8953?course=python-practice-challenges'>开始挑战</a>                    |
-|  069 | 让对象表现得像字典                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-make-object-like-dict-1149?course=python-practice-challenges'>开始挑战</a>                              |
-|  070 | 让对象表现得像列表                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-make-object-like-list-1392?course=python-practice-challenges'>开始挑战</a>                              |
-|  071 | 让对象表现得像集合                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-make-object-like-set-4985?course=python-practice-challenges'>开始挑战</a>                               |
-|  072 | 使用 PIL 处理图像                    | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-manipulating-images-with-pil-149290?course=python-practice-challenges'>开始挑战</a>                     |
-|  073 | 多线程在线市场模拟                      | 高级   | <a target='_blank' href='https://labex.io/zh/labs/python-multi-threaded-marketplace-simulation-92595?course=python-practice-challenges'>开始挑战</a>             |
-|  074 | 大型数据集的并行计算                     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-parallel-computation-on-large-datasets-765?course=python-practice-challenges'>开始挑战</a>              |
-|  075 | 使用多进程处理实现 Python 并行处理          | 高级   | <a target='_blank' href='https://labex.io/zh/labs/python-parallel-python-processing-with-multiprocessing-7823?course=python-practice-challenges'>开始挑战</a>    |
-|  076 | 邮政编码分配程序                       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-postal-code-assignment-program-8698?course=python-practice-challenges'>开始挑战</a>                     |
-|  077 | 练习赋值表达式                        | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-practice-assignment-expressions-3731?course=python-practice-challenges'>开始挑战</a>                    |
-|  078 | Python 集合交集函数                  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-python-set-intersection-function-8429?course=python-practice-challenges'>开始挑战</a>                   |
-|  079 | 使用 Pathlib 进行 Python 风格的文件路径管理 | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-pythonic-file-path-management-with-pathlib-153825?course=python-practice-challenges'>开始挑战</a>       |
-|  080 | 实时数据处理系统                       | 高级   | <a target='_blank' href='https://labex.io/zh/labs/python-real-time-data-processing-system-15040?course=python-practice-challenges'>开始挑战</a>                  |
-|  081 | 精通正则表达式                        | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-regular-expressions-mastery-16238?course=python-practice-challenges'>开始挑战</a>                       |
-|  082 | 学校招生系统                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-school-enrollment-system-8458?course=python-practice-challenges'>开始挑战</a>                           |
-|  083 | 学校考试分析                         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-school-exam-analysis-47124?course=python-practice-challenges'>开始挑战</a>                              |
-|  084 | 学校考试评分器                        | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-school-exam-grader-8300?course=python-practice-challenges'>开始挑战</a>                                 |
-|  085 | 精简你的 Pythonic 代码               | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-simplify-your-code-pythonic-131?course=python-practice-challenges'>开始挑战</a>                         |
-|  086 | 接龙打字与字符串处理                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-solitaire-typing-and-string-processing-7833?course=python-practice-challenges'>开始挑战</a>             |
-|  087 | 使用 Python 海象运算符解决问题            | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-solving-problems-with-python-walrus-operator-641?course=python-practice-challenges'>开始挑战</a>        |
-|  088 | decimal 模块                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-mastering-the-decimal-module-177193?course=python-practice-challenges'>开始挑战</a>                     |
-|  089 | 释放 unicodedata 的潜力             | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-unleash-the-potential-of-unicodedata-177191?course=python-practice-challenges'>开始挑战</a>             |
-|  090 | 小镇镇长投票系统                       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-voting-system-for-town-mayor-8060?course=python-practice-challenges'>开始挑战</a>                       |
-|  091 | 使用 Python 进行仓库库存管理             | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-warehouse-inventory-management-with-python-8694?course=python-practice-challenges'>开始挑战</a>         |
-|  092 | 使用 BeautifulSoup 进行网页数据抓取      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-web-scraping-with-beautifulsoup-92587?course=python-practice-challenges'>开始挑战</a>                   |
-|  093 | 使用 Python 进行货币兑换               | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-currency-exchange-with-python-13395?course=python-practice-challenges'>开始挑战</a>                     |
-|  094 | 错误和异常处理                        | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-error-and-exception-handling-7810?course=python-practice-challenges'>开始挑战</a>                       |
-|  095 | 像专家一样操作文件                      | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-file-operate-like-a-boss-129?course=python-practice-challenges'>开始挑战</a>                            |
-|  096 | 玩转文本数据                         | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-play-with-your-text-data-130?course=python-practice-challenges'>开始挑战</a>                            |
-|  097 | 处理 JSON 文件                     | 中级   | <a target='_blank' href='https://labex.io/zh/labs/python-working-with-json-files-133?course=python-practice-challenges'>开始挑战</a>                             |
-|  098 | 发送 SOS 信号                      | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-send-sos-signal-211439?course=python-practice-challenges'>开始挑战</a>                                  |
-|  099 | 时区转换器                          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/python-time-zone-converter-55691?course=python-practice-challenges'>开始挑战</a>                               |
-|  100 | 实现基于令牌的用户认证                    | 初级   | <a target='_blank' href='https://labex.io/zh/labs/flask-implementing-token-based-user-authentication-295936?course=python-practice-challenges'>开始挑战</a>      |
+|   序号 | 名称                                                                                                                  | 难度   | 练习                                                                                           |
+|------|---------------------------------------------------------------------------------------------------------------------|------|----------------------------------------------------------------------------------------------|
+|   01 | [Print Hello Python](https://labex.io/zh/labs/python-print-hello-python-61)                                         | 初级   | [开始挑战](https://labex.io/zh/labs/python-print-hello-python-61)                                |
+|   02 | [处理 JSON 文件](https://labex.io/zh/labs/python-working-with-json-files-133)                                           | 中级   | [开始挑战](https://labex.io/zh/labs/python-working-with-json-files-133)                          |
+|   03 | [接龙打字与字符串处理](https://labex.io/zh/labs/python-solitaire-typing-and-string-processing-7833)                           | 中级   | [开始挑战](https://labex.io/zh/labs/python-solitaire-typing-and-string-processing-7833)          |
+|   04 | [使用 BeautifulSoup 进行网页数据抓取](https://labex.io/zh/labs/python-web-scraping-with-beautifulsoup-92587)                  | 中级   | [开始挑战](https://labex.io/zh/labs/python-web-scraping-with-beautifulsoup-92587)                |
+|   05 | [开发饮水量追踪应用程序](https://labex.io/zh/labs/python-develop-water-intake-tracking-app-8951)                               | 初级   | [开始挑战](https://labex.io/zh/labs/python-develop-water-intake-tracking-app-8951)               |
+|   06 | [使用 Python 进行仓库库存管理](https://labex.io/zh/labs/python-warehouse-inventory-management-with-python-8694)               | 初级   | [开始挑战](https://labex.io/zh/labs/python-warehouse-inventory-management-with-python-8694)      |
+|   07 | [小镇镇长投票系统](https://labex.io/zh/labs/python-voting-system-for-town-mayor-8060)                                       | 初级   | [开始挑战](https://labex.io/zh/labs/python-voting-system-for-town-mayor-8060)                    |
+|   08 | [释放装饰器的强大能力](https://labex.io/zh/labs/python-unleashing-the-power-of-decorators-8692)                               | 中级   | [开始挑战](https://labex.io/zh/labs/python-unleashing-the-power-of-decorators-8692)              |
+|   09 | [释放 unicodedata 的潜力](https://labex.io/zh/labs/python-unleash-the-potential-of-unicodedata-177191)                   | 中级   | [开始挑战](https://labex.io/zh/labs/python-unleash-the-potential-of-unicodedata-177191)          |
+|   10 | [时区转换器](https://labex.io/zh/labs/python-time-zone-converter-55691)                                                  | 初级   | [开始挑战](https://labex.io/zh/labs/python-time-zone-converter-55691)                            |
+|   11 | [时间飞逝，时光试炼](https://labex.io/zh/labs/python-time-flies-when-time-trials-132)                                        | 中级   | [开始挑战](https://labex.io/zh/labs/python-time-flies-when-time-trials-132)                      |
+|   12 | [时间差计算器](https://labex.io/zh/labs/python-time-difference-calculator-67167)                                          | 初级   | [开始挑战](https://labex.io/zh/labs/python-time-difference-calculator-67167)                     |
+|   13 | [Python 温度转换工具](https://labex.io/zh/labs/python-python-temperature-conversion-tool-9191)                            | 初级   | [开始挑战](https://labex.io/zh/labs/python-python-temperature-conversion-tool-9191)              |
+|   14 | [所有偶数之和](https://labex.io/zh/labs/python-sum-of-all-even-numbers-7831)                                              | 初级   | [开始挑战](https://labex.io/zh/labs/python-sum-of-all-even-numbers-7831)                         |
+|   15 | [基于水果的 Python 技能练习](https://labex.io/zh/labs/python-fruit-based-python-skill-practice-7830)                         | 中级   | [开始挑战](https://labex.io/zh/labs/python-fruit-based-python-skill-practice-7830)               |
+|   16 | [小型在线书店](https://labex.io/zh/labs/python-small-online-bookstore-1400)                                               | 中级   | [开始挑战](https://labex.io/zh/labs/python-small-online-bookstore-1400)                          |
+|   17 | [精简你的 Pythonic 代码](https://labex.io/zh/labs/python-simplify-your-code-pythonic-131)                                 | 中级   | [开始挑战](https://labex.io/zh/labs/python-simplify-your-code-pythonic-131)                      |
+|   18 | [简易购物车](https://labex.io/zh/labs/python-simple-shopping-cart-7827)                                                  | 中级   | [开始挑战](https://labex.io/zh/labs/python-simple-shopping-cart-7827)                            |
+|   19 | [Python 集合交集函数](https://labex.io/zh/labs/python-python-set-intersection-function-8429)                              | 初级   | [开始挑战](https://labex.io/zh/labs/python-python-set-intersection-function-8429)                |
+|   20 | [大型数据集的并行计算](https://labex.io/zh/labs/python-parallel-computation-on-large-datasets-765)                            | 初级   | [开始挑战](https://labex.io/zh/labs/python-parallel-computation-on-large-datasets-765)           |
+|   21 | [使用 Python 海象运算符解决问题](https://labex.io/zh/labs/python-solving-problems-with-python-walrus-operator-641)             | 中级   | [开始挑战](https://labex.io/zh/labs/python-solving-problems-with-python-walrus-operator-641)     |
+|   22 | [学校评分系统](https://labex.io/zh/labs/python-school-grading-system-8462)                                                | 初级   | [开始挑战](https://labex.io/zh/labs/python-school-grading-system-8462)                           |
+|   23 | [学校考试评分器](https://labex.io/zh/labs/python-school-exam-grader-8300)                                                  | 初级   | [开始挑战](https://labex.io/zh/labs/python-school-exam-grader-8300)                              |
+|   24 | [学校考试分析](https://labex.io/zh/labs/python-school-exam-analysis-47124)                                                | 初级   | [开始挑战](https://labex.io/zh/labs/python-school-exam-analysis-47124)                           |
+|   25 | [学校招生系统](https://labex.io/zh/labs/python-school-enrollment-system-8458)                                             | 初级   | [开始挑战](https://labex.io/zh/labs/python-school-enrollment-system-8458)                        |
+|   26 | [学校考勤追踪器](https://labex.io/zh/labs/python-school-attendance-tracker-8464)                                           | 初级   | [开始挑战](https://labex.io/zh/labs/python-school-attendance-tracker-8464)                       |
+|   27 | [创建 Python 迭代器](https://labex.io/zh/labs/python-create-python-iterators-17)                                         | 中级   | [开始挑战](https://labex.io/zh/labs/python-create-python-iterators-17)                           |
+|   28 | [精通正则表达式](https://labex.io/zh/labs/python-regular-expressions-mastery-16238)                                        | 中级   | [开始挑战](https://labex.io/zh/labs/python-regular-expressions-mastery-16238)                    |
+|   29 | [食谱推荐程序](https://labex.io/zh/labs/python-recipe-recommendation-program-8190)                                        | 初级   | [开始挑战](https://labex.io/zh/labs/python-recipe-recommendation-program-8190)                   |
+|   30 | [实时数据处理系统](https://labex.io/zh/labs/python-real-time-data-processing-system-15040)                                  | 高级   | [开始挑战](https://labex.io/zh/labs/python-real-time-data-processing-system-15040)               |
+|   31 | [使用多进程处理实现 Python 并行处理](https://labex.io/zh/labs/python-parallel-python-processing-with-multiprocessing-7823)       | 高级   | [开始挑战](https://labex.io/zh/labs/python-parallel-python-processing-with-multiprocessing-7823) |
+|   32 | [处理时间计算器](https://labex.io/zh/labs/python-processing-time-calculator-8704)                                          | 初级   | [开始挑战](https://labex.io/zh/labs/python-processing-time-calculator-8704)                      |
+|   33 | [打印乘法表](https://labex.io/zh/labs/python-printing-multiplication-table-8470)                                         | 初级   | [开始挑战](https://labex.io/zh/labs/python-printing-multiplication-table-8470)                   |
+|   34 | [打印三角形](https://labex.io/zh/labs/python-printing-a-triangle-8063)                                                   | 初级   | [开始挑战](https://labex.io/zh/labs/python-printing-a-triangle-8063)                             |
+|   35 | [小于 100 的质数之和](https://labex.io/zh/labs/python-prime-sum-below-100-8794)                                            | 初级   | [开始挑战](https://labex.io/zh/labs/python-prime-sum-below-100-8794)                             |
+|   36 | [邮政编码分配程序](https://labex.io/zh/labs/python-postal-code-assignment-program-8698)                                     | 初级   | [开始挑战](https://labex.io/zh/labs/python-postal-code-assignment-program-8698)                  |
+|   37 | [玩转文本数据](https://labex.io/zh/labs/python-play-with-your-text-data-130)                                              | 中级   | [开始挑战](https://labex.io/zh/labs/python-play-with-your-text-data-130)                         |
+|   38 | [使用 F 字符串生成个性化消息](https://labex.io/zh/labs/python-personalized-message-with-f-strings-8468)                         | 初级   | [开始挑战](https://labex.io/zh/labs/python-personalized-message-with-f-strings-8468)             |
+|   39 | [Python 回文检查器](https://labex.io/zh/labs/python-palindrome-checker-in-python-145208)                                 | 初级   | [开始挑战](https://labex.io/zh/labs/python-palindrome-checker-in-python-145208)                  |
+|   40 | [多线程在线市场模拟](https://labex.io/zh/labs/python-multi-threaded-marketplace-simulation-92595)                            | 高级   | [开始挑战](https://labex.io/zh/labs/python-multi-threaded-marketplace-simulation-92595)          |
+|   41 | [电影院门票](https://labex.io/zh/labs/python-movie-theater-tickets-8472)                                                 | 初级   | [开始挑战](https://labex.io/zh/labs/python-movie-theater-tickets-8472)                           |
+|   42 | [数学表达式求值器](https://labex.io/zh/labs/python-math-expression-evaluator-8739)                                          | 中级   | [开始挑战](https://labex.io/zh/labs/python-math-expression-evaluator-8739)                       |
+|   43 | [The Decimal Module](https://labex.io/zh/labs/python-the-decimal-module-177193)                                     | 中级   | [开始挑战](https://labex.io/zh/labs/python-the-decimal-module-177193)                            |
+|   44 | [使用 Pathlib 进行 Python 风格的文件路径管理](https://labex.io/zh/labs/python-pythonic-file-path-management-with-pathlib-153825) | 中级   | [开始挑战](https://labex.io/zh/labs/python-pythonic-file-path-management-with-pathlib-153825)    |
+|   45 | [使用 PIL 处理图像](https://labex.io/zh/labs/python-manipulating-images-with-pil-149290)                                  | 中级   | [开始挑战](https://labex.io/zh/labs/python-manipulating-images-with-pil-149290)                  |
+|   46 | [让对象表现得像集合](https://labex.io/zh/labs/python-make-object-like-set-4985)                                              | 中级   | [开始挑战](https://labex.io/zh/labs/python-make-object-like-set-4985)                            |
+|   47 | [让对象表现得像列表](https://labex.io/zh/labs/python-make-object-like-list-1392)                                             | 中级   | [开始挑战](https://labex.io/zh/labs/python-make-object-like-list-1392)                           |
+|   48 | [让对象表现得像字典](https://labex.io/zh/labs/python-make-object-like-dict-1149)                                             | 中级   | [开始挑战](https://labex.io/zh/labs/python-make-object-like-dict-1149)                           |
+|   49 | [操作字符串的魔法方法](https://labex.io/zh/labs/python-magic-methods-to-operate-strings-8004)                                 | 中级   | [开始挑战](https://labex.io/zh/labs/python-magic-methods-to-operate-strings-8004)                |
+|   50 | [操作数字的魔法方法](https://labex.io/zh/labs/python-magic-methods-to-operate-numbers-8003)                                  | 中级   | [开始挑战](https://labex.io/zh/labs/python-magic-methods-to-operate-numbers-8003)                |
+
+[在 LabEx 查看更多](https://labex.io/zh/learn/python)
 
 ## About LabEx
 
